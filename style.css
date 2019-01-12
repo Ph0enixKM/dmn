@@ -28,10 +28,6 @@ span {
     color: #555;
 }
 
-header img {
-    filter: contrast(2) brightness(0.5)
-}
-
 light {
     height: 2px;
     background: linear-gradient(90deg, purple, orange);
