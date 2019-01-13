@@ -5,7 +5,7 @@ body {
     color: #ddd;
     user-select: none;
     text-align: center;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 #img {
