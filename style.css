@@ -6,6 +6,18 @@ body {
     user-select: none;
 }
 
+#img {
+    display: inline-block;
+    margin: 20px;
+    transition: 200ms;
+    height: 300px;
+    box-shadow: 0 0 20px black;
+}
+
+#img:hover {
+    transform: scale(1.05);
+}
+
 header {
     width: 100vw;
     height: 165px;
